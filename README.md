@@ -1,4 +1,4 @@
-https://sthefanynovaes.github.io/site-iphone/
+https://sthefanynovaes.github.io/Site-Iphone/
 # site-iphone
 Site desenvolvido na aula de Introdução à Tecnologia Web
 
